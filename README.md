@@ -20,14 +20,18 @@ sudo pacman -S cmake lua
 ```
 
 # 3. Getting Started
-1. Run
+1. Build
 ```sh
 cd build
 cmake ..
 make
 ```
 
-2. Now from the output and the single c file, it will become very clear how the
-8 examples there implemented are working.
+2. Run
+```sh
+make run
+```
+
+3. Observe output and study the `main.c` file :)
 
 
