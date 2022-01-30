@@ -18,3 +18,16 @@ TODO
 ```
 sudo pacman -S cmake lua
 ```
+
+# 3. Getting Started
+1. Run
+```sh
+cd build
+cmake ..
+make
+```
+
+2. Now from the output and the single c file, it will become very clear how the
+8 examples there implemented are working.
+
+
